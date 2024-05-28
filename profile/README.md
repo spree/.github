@@ -1,19 +1,18 @@
 <p align="center">
   <a href="https://spreecommerce.org">
-    <img src="https://raw.githubusercontent.com/spree/spree/main/docs/images/spree_header_978-2x.png" alt="Spree Commerce">
+    <img alt="Spree Commerce - Open Source e-commerce platform" src="https://github.com/spree/spree/assets/12614496/ff5372a4-e906-458e-83b6-7927ba0629c1">
   </a>
 
   <h1 align="center">Spree Commerce</h2>
 
   <p align="center">
-    Open Source e-commerce platform for global brands.
-    <br />
-    <br />
-    The best alternative to BigCommerce, Magento, Commerce Tools, etc.
+    An open source eCommerce platform giving you full control and customizability.
     <br />
     Build any eCommerce solution that your business requires.
     <br />
     <br />
+    <a href="https://slack.spreecommerce.org">README</a>
+    ·
     <a href="https://slack.spreecommerce.org">Slack</a>
     ·
     <a href="https://docs.spreecommerce.org">Documentation</a>
