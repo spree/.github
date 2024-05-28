@@ -11,7 +11,7 @@
     Build any eCommerce solution that your business requires.
     <br />
     <br />
-    <a href="https://slack.spreecommerce.org">README</a>
+    <a href="https://github.com/spree/spree">README</a>
     ·
     <a href="https://slack.spreecommerce.org">Slack</a>
     ·
