@@ -11,6 +11,8 @@
     Build any eCommerce solution that your business requires.
     <br />
     <br />
+    <a href="https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/">Spree 5</a>
+    ·
     <a href="https://spreecommerce.org">Website</a>
     ·
     <a href="https://spreecommerce.org/docs/">Documentation</a>
@@ -40,12 +42,24 @@
 
 Visit the [Quickstart Guide](https://spreecommerce.org/docs/developer/getting-started/quickstart) to set up Spree in 5 minutes.
 
-## Enterprise support
+If you like what you see, consider giving Spree a GitHub star :star:
 
-[Contact us](https://spreecommerce.org/contact/) for enterprise support and custom development services. We offer:
-  * expert delivery of your Spree application,
-  * migrations and upgrades,
-  * optimizing your Spree stack.
+Thank you for supporting Spree open-source :heart:
+
+## Spree 5 Announcement & Demo
+
+[![Spree Commerce 5 version](https://vendo-production-res.cloudinary.com/image/upload/w_2000/q_auto/v1742985405/docs/github/Spree_Commerce_open-source_eCommerce_myzurl.jpg)](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/)
+
+We’re thrilled to unveil [Spree 5](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/
+) — the most powerful and feature-packed open-source release in Spree Commerce’s history, including:
+- A completly revamped Admin Dashboard experience: boost your team's productivity 
+- A Mobile-First, No-code Customizable Storefront: raise conversions and loyalty
+- New integrations: a native [Stripe integration](https://github.com/spree/spree_stripe), and also Stripe Connect, Klaviyo integrations available with the Enterprise Edition
+- Enterprise Edition Admin Features: Audit Log, [Multi-Vendor Marketplace](https://spreecommerce.org/marketplace-ecommerce/), [Multi-tenant / White-label SaaS eCommerce](https://spreecommerce.org/multi-tenant-white-label-ecommerce/)
+
+Read the [full Spree 5 announcement here](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/).
+
+Check out the [Spree 5 demo](https://demo.spreecommerce.org/) for yourself.
 
 ## Enterprise Edition 
 
@@ -53,13 +67,9 @@ Besides enterprise support we also offer the Spree Commerce [Enterprise Edition]
 
 To get access to Spree Enterprise (Vendo), contact our [Sales team](https://spreecommerce.org/get-started/)
 
-## Spree 5 Demo
+## Enterprise support
 
-Check out this [Spree Commerce demo](https://demo.spreecommerce.org/) for yourself.
-
-This demo runs on the upcoming Spree 5 which is the biggest Spree release ever. 
-
-Stay tuned for the official announcement on all the exciting features and integrations!
-
-![Spree Commerce 5 version](https://vendo-production-res.cloudinary.com/image/upload/w_2000/q_auto/v1742985405/docs/github/Spree_Commerce_open-source_eCommerce_myzurl.jpg)
-
+[Contact us](https://spreecommerce.org/contact/) for enterprise support and custom development services. We offer:
+  * expert delivery of your Spree application,
+  * migrations and upgrades,
+  * optimizing your Spree stack.
