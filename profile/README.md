@@ -23,7 +23,7 @@
     ·
     <a href="https://demo.spreecommerce.org">Demo</a>
     ·
-    <a href="https://spreecommerce.org/pricing/">Pricing</a>
+    <a href="https://spreecommerce.org/enterprise/">Enterprise</a>
     ·
     <a href="https://github.com/spree/spree/milestones?direction=asc&sort=due_date&state=open">Roadmap</a>
   </p>
@@ -34,7 +34,7 @@
     <img alt="Gem Total Downloads" src="https://img.shields.io/gem/dt/spree" />
   </a>
   <a href="https://slack.spreecommerce.org">
-    <img alt="Slack members" src="https://img.shields.io/badge/slack%20members-6.5K-blue" />
+    <img alt="Slack members" src="https://img.shields.io/badge/slack%20members-7K-blue" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ We’re thrilled to unveil [Spree 5](https://spreecommerce.org/announcing-spree-
 - New integrations: a native [Stripe integration](https://github.com/spree/spree_stripe), and also Stripe Connect, Klaviyo integrations available with the Enterprise Edition
 - Enterprise Edition Admin Features: Audit Log, [Multi-Vendor Marketplace](https://spreecommerce.org/marketplace-ecommerce/), [Multi-tenant / White-label SaaS eCommerce](https://spreecommerce.org/multi-tenant-white-label-ecommerce/)
 
-Read the [full Spree 5 announcement here](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/).
+Read the [full Spree 5 announcement here](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/) and the [changelog of Spree 5](https://github.com/spree/spree/releases) followup improvements.
 
 Check out the [Spree 5 demo](https://demo.spreecommerce.org/) for yourself.
 
