@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://spreecommerce.org">
-    <img alt="Spree Commerce - Open Source e-commerce platform" src="https://github.com/spree/spree/assets/12614496/ff5372a4-e906-458e-83b6-7927ba0629c1">
+    <img alt="Spree Commerce - an open source eCommerce platform" src="https://raw.githubusercontent.com/spree/spree/e4ee6636d9a31c73761b0c76662d15b0f9899ecb/docs/images/Spree%20Commerce%20open-source%20eCommerce%20platform%20API%20headless%20Next.js.webp">
   </a>
 
-  <h1 align="center">Spree Commerce</h2>
+  <h1 align="center">Spree Commerce Open Source eCommerce</h2>
 
   <p align="center">
     An <a href="https://spreecommerce.org/" alt="open-source eCommerce platform">open-source eCommerce platform</a> giving you full control and customizability.
@@ -11,21 +11,17 @@
     Build any eCommerce solution that your business requires.
     <br />
     <br />
-    <a href="https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/">Spree 5</a>
-    ·
     <a href="https://spreecommerce.org">Website</a>
     ·
     <a href="https://spreecommerce.org/docs/">Documentation</a>
     ·
-    <a href="https://slack.spreecommerce.org">Slack</a>
-    ·
-    <a href="https://github.com/spree/spree_starter/">Starter</a>
-    ·
-    <a href="https://demo.spreecommerce.org">Demo</a>
-    ·
-    <a href="https://spreecommerce.org/enterprise/">Enterprise</a>
+    <a href="https://spreecommerce.org/docs/developer/getting-started/quickstart">Quickstart Guide</a>    
     ·
     <a href="https://github.com/spree/spree/milestones?direction=asc&sort=due_date&state=open">Roadmap</a>
+    ·
+    <a href="https://slack.spreecommerce.org">Slack</a>
+    ·
+    <a href="https://spreecommerce.org/enterprise/">Enterprise</a>
   </p>
 </p>
 
@@ -40,7 +36,15 @@
 
 ## Getting Started
 
-Visit the [Quickstart Guide](https://spreecommerce.org/docs/developer/getting-started/quickstart) to set up Spree in 5 minutes.
+Copy and paste the following command to your terminal to set up Spree in 5 minutes:
+
+```bash
+bash -c "$(curl -fsSL https://spreecommerce.org/install)"
+```
+
+If you prefer to install Spree manually, you may follow the [Quickstart Guide](https://spreecommerce.org/docs/developer/getting-started/quickstart).
+
+Make sure to check out **Spree 5** announcement below and the latest [Spree 5.3 release](https://github.com/spree/spree/releases/tag/v5.3.0).
 
 If you like what you see, consider giving Spree a GitHub star :star:
 
@@ -50,26 +54,40 @@ Thank you for supporting Spree open-source :heart:
 
 [![Spree Commerce 5 version](https://vendo-production-res.cloudinary.com/image/upload/w_2000/q_auto/v1742985405/docs/github/Spree_Commerce_open-source_eCommerce_myzurl.jpg)](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/)
 
-We’re thrilled to unveil [Spree 5](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/
-) — the most powerful and feature-packed open-source release in Spree Commerce’s history, including:
-- A completly revamped Admin Dashboard experience: boost your team's productivity 
-- A Mobile-First, No-code Customizable Storefront: raise conversions and loyalty
-- New integrations: a native [Stripe integration](https://github.com/spree/spree_stripe), and also Stripe Connect, Klaviyo integrations available with the Enterprise Edition
-- Enterprise Edition Admin Features: Audit Log, [Multi-Vendor Marketplace](https://spreecommerce.org/marketplace-ecommerce/), [Multi-tenant / White-label SaaS eCommerce](https://spreecommerce.org/multi-tenant-white-label-ecommerce/)
+[Spree 5](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/) is the most feature-packed open-source release in Spree Commerce's history — transforming the platform into an API-first, developer-friendly, enterprise-grade eCommerce solution that still adheres to its open-source roots.
 
-Read the [full Spree 5 announcement here](https://spreecommerce.org/announcing-spree-5-the-biggest-open-source-release-ever/) and the [changelog of Spree 5](https://github.com/spree/spree/releases) followup improvements.
+**Spree 5 packs a punch with:**
 
-Check out the [Spree 5 demo](https://demo.spreecommerce.org/) for yourself.
+- **Admin Dashboard** — Completely new Admin Dashboard built with Tailwind CSS, Admin SDK with Tables DSL, staff management with role-based permissions
+- **Pricing & Promotions** — Flexible Pricing Engine with regional/B2B/wholesale pricing out of the box, Customer Groups, Gift Cards, and enhanced Promotions UI
+- **Products & Catalog** — Metafields for custom data without migrations, CSV importer/exporter, Digital products, Product Tags, Bulk operations UI
+- **Checkout & Payments** — Stripe, Adyen, Payment Links, Wallet payments (Apple Pay/Google Pay), Buy Now Pay Later, Bank & SEPA payments
+- **Integrations & Extensibility** — Event Bus with Subscribers, Webhooks 2.0 with admin UI, native integrations (Google Analytics 4, GTM, Klaviyo)
+- **Developer Experience** — New CLI Installer, code generators, LSP editor integrations, Claude Code/Cursor AI integrations
+
+Upcoming **Spree 5.4** expands the platform's reach to JavaScript developers with:
+
+- **New REST API** — ~10x faster than API v2, built for simplicity and performance
+- **TypeScript SDK** — First-class developer experience with full type safety
+- **Next.js Starter Kit** — Production-ready headless storefront powered by the new API
+
+Read the [full Spree 5.3 announcement here](https://spreecommerce.org/announcing-spree-commerce-5-3-with-price-lists-customer-groups-new-admin-tools/).
+
+To install Spree check out this [Quickstart Guide](https://spreecommerce.org/docs/developer/getting-started/quickstart).
+
+[View the latest Releases](https://github.com/spree/spree/releases) ·
+[View the Roadmap](https://github.com/orgs/spree/projects) ·
+[Get Enterprise Support](https://spreecommerce.org/get-started/)
+
+## Enterprise support
+
+[Contact us](https://spreecommerce.org/get-started/) for enterprise support and custom development services. We offer:
+  * expert delivery of your Spree project,
+  * migrations and upgrades,
+  * optimizing your Spree stack.
 
 ## Enterprise Edition 
 
 Besides enterprise support we also offer the Spree Commerce [Enterprise Edition](https://spreecommerce.org/spree-commerce-version-comparison-community-edition-vs-enterprise-edition/) that gives you all the tools you need to launch your store or marketplace and provides you with ready-to-use integrations that will reduce your project's development time and cost.
 
-To get access to Spree Enterprise (Vendo), contact our [Sales team](https://spreecommerce.org/get-started/)
-
-## Enterprise support
-
-[Contact us](https://spreecommerce.org/contact/) for enterprise support and custom development services. We offer:
-  * expert delivery of your Spree application,
-  * migrations and upgrades,
-  * optimizing your Spree stack.
+To get access to the Enterprise Edition, contact our [Sales team](https://spreecommerce.org/get-started/)
