@@ -1,13 +1,14 @@
 <p align="center">
   <h1>
-  <a href="https://spreecommerce.org">
-    <img alt="Spree Commerce - an open source eCommerce platform" src="https://raw.githubusercontent.com/spree/spree/e4ee6636d9a31c73761b0c76662d15b0f9899ecb/docs/images/Spree%20Commerce%20open-source%20eCommerce%20platform%20API%20headless%20Next.js.webp">
-  </a>
+    Spree Commerce is an open-source headless ecommerce platform
   </h1>
 
 
   <p align="center">
-    Spree Commerce is an API-first, <a href="https://spreecommerce.org/" alt="open-source eCommerce platform">open-source eCommerce platform</a> for fast-growing businesses and enterprises.
+    Spree Commerce is an open-source headless ecommerce platform with a complete REST API, official TypeScript SDK, and a production-ready Next.js storefront. Any developer, any language, any frontend.
+    <br />
+    <br />    
+    Build B2B wholesale portals, multi-vendor marketplaces, cross-border storefronts, or multi-tenant SaaS platforms from one codebase. 
     <br />
     <br />
     <a href="https://spreecommerce.org">Website</a>
