@@ -5,10 +5,10 @@
 
 
   <p align="center">
-    Spree Commerce is an open-source headless ecommerce platform with a complete REST API, official TypeScript SDK, and a production-ready Next.js storefront. Any developer, any language, any frontend.
+    <a href="https://spreecommerce.org/announcing-spree-commerce-5-4/" alt="an open-source headless ecommerce platform">Spree Commerce 5.4</a> comes with a complete REST API, official TypeScript SDK, and a production-ready Next.js storefront. 
     <br />
     <br />    
-    Build B2B wholesale portals, multi-vendor marketplaces, cross-border storefronts, or multi-tenant SaaS platforms from one codebase. 
+    Build B2B wholesale portals, multi-vendor marketplaces, cross-border storefronts, or multi-tenant SaaS platforms. 
     <br />
     <br />
     <a href="https://spreecommerce.org">Website</a>
