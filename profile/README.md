@@ -1,6 +1,6 @@
 <p align="center">
   <h1>
-    Spree Commerce is an open-source headless ecommerce platform
+    Spree Commerce - open-source headless eCommerce platform
   </h1>
 
 
