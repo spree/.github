@@ -29,7 +29,7 @@
 
 Open-source headless eCommerce platform with a complete REST API, TypeScript SDK, and a production-ready Next.js storefront.
 
-Ships everything you need to launch cross-border storefronts, B2B wholesale, multi-vendor marketplaces, or multi-tenant SaaS platforms.
+Everything you need to launch cross-border storefronts, B2B wholesale, multi-vendor marketplaces, or multi-tenant SaaS platforms.
 
 </div>
 
