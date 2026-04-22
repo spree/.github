@@ -1,12 +1,10 @@
-<p align="center">
+<h1>
   <a href="https://spreecommerce.org">
     <img src="https://spreecommerce.org/wp-content/themes/spree/images/logo.svg" alt="Spree Commerce open source headless eCommerce platform for B2B, Multi-vendor Marketplace, cross-border eCommerce, multi-tenant eCommerce" width="250" />
   </a>
-</p>
+</h1>
 
-<div align="center">
-
-# Spree Commerce
+<div>
 
 [Website](https://spreecommerce.org)
 ·
@@ -20,7 +18,7 @@
 ·
 [Roadmap](https://github.com/spree/spree/milestones?direction=asc&sort=due_date&state=open)
 ·
-[Slack](https://slack.spreecommerce.org)
+[Discord](https://discord.spreecommerce.org)
 ·
 [Enterprise](https://spreecommerce.org/enterprise/)
 
