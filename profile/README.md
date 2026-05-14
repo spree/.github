@@ -23,7 +23,8 @@
 [Enterprise](https://spreecommerce.org/enterprise/)
 
 [![Gem Total Downloads](https://img.shields.io/gem/dt/spree)](https://rubygems.org/gems/spree)
-[![Slack members](https://img.shields.io/badge/slack%20members-7K-blue)](https://slack.spreecommerce.org)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 
 Open-source headless eCommerce platform with a complete REST API, TypeScript SDK, and a production-ready Next.js storefront.
 
